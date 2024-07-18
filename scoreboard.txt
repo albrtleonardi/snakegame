@@ -1,0 +1,5 @@
+Richard 90
+Richard 150
+s 100
+sda 70
+sad 30

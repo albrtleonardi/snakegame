@@ -289,7 +289,7 @@ void dashboard(){
     					drawMap();
     					controller();
     					game();
-    					Sleep(20);
+    					Sleep(40);
     					
     					if(gameOver){
     						printf("\n");
